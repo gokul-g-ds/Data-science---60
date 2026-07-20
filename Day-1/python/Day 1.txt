@@ -1,0 +1,40 @@
+Data science - 60 days
+
+Python mastery course - DAY 1
+
+1)Basic print
+Escape sequence - print("*******",end = "")
+Seperate sequence - print("*****",sep = "") -> by default seperator is space(-)
+
+2)Interpreter and compiler 
+Interpreter -> check one by one
+Compiler -> check overall code
+
+3) Data types in python 
+Simple ->Int,String,Float,Boolean
+complex ->List,Tuple,Dictionary,Set
+
+4)Variable
+
+5)Assignment,Declaration,Initialization
+
+6)Dynamic Typing and mutability
+DT -> Python automatically determines the data types
+mutability -> can change after creation
+Immutablity -> cannot change after creation 
+
+7)Operators
+ ->Arithmetic Operator
+ ->Relational Operator
+ ->Augumented Assignment operator
+ ->Membership operator
+ ->Logical operator
+ ->Bitwise Operator
+ ->String operations 
+     1)String Replication
+	 2)String Concatination
+	 
+8) Userinput 
+   -> variable = input("message")
+
+9)Swap Programming    

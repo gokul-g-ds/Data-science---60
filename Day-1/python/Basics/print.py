@@ -6,7 +6,7 @@ print("today is day 1")
 #hello gokul
 #today is day
 
-# using End argument 
+# using End argument  
 print("hello gokul",end = "-")
 print("today is day 1")
 #hello gokul-today is day 1
